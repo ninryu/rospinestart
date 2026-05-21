@@ -1,7 +1,7 @@
 :root {
 	--font: "Cartograph CF";
 	--bgcolor: #fffaf3;
-	--linkcolor: #56949f;
+	--linkcolor: #907aa9;
 }
 
 /*-----------------------------------------------------------*/
@@ -9,7 +9,7 @@ input {
     height: inherit;
     width: 680px;
     background: #fffaf3;
-    color: #d7827e;
+    color: #56949f;
     font: "Cartograph CF";
     font-weight: mono;
     line-height: 1.8em;
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-	color: #d7827e;
+	color: #c4a7e7;
 }
 
 .time {
