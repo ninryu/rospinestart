@@ -1,6 +1,6 @@
 :root {
 	--font: "Cartograph CF";
-	--bgcolor: #f2e9e1;
+	--bgcolor: #fffaf3;
 	--linkcolor: #575279;
 }
 
@@ -9,7 +9,7 @@ input {
     height: inherit;
     width: 680px;
     background: #fffaf3;
-    color: #56949f;
+    color: #9ccfd8;
     font: "Cartograph CF";
     font-weight: mono;
     line-height: 1.8em;
