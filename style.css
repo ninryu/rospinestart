@@ -64,7 +64,7 @@ ul {
 a {
 	display: block;
 	line-height: 2.4em;
-	font-family: var(--font);
+	font-family: "JetBrains Mono";
 	color: var(--linkcolor);
 	font-size: 1rem;
 	text-decoration: none;
