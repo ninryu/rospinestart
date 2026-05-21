@@ -1,7 +1,7 @@
 :root {
 	--font: "Cartograph CF";
 	--bgcolor: #f2e9e1;
-	--linkcolor: #e0def4;
+	--linkcolor: #575279;
 }
 
 /*-----------------------------------------------------------*/
@@ -81,6 +81,6 @@ a:hover {
     font-weight: mono;
     font-size: 5.5rem;
     margin: 50px 0px 50px 0px;
-    color: var(--linkcolor);
+    color: #e0def4;
 	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #C3A5E6, -20px 20px 0px #31748f;
 }
