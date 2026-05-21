@@ -1,5 +1,5 @@
 :root {
-	--font: "Cartograph CF";
+	--font: "JetBrains Mono";
 	--bgcolor: #1f1d2e;
 	--linkcolor: #e0def4;
 }
@@ -84,3 +84,8 @@ a:hover {
     color: var(--linkcolor);
 	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #C3A5E6, -20px 20px 0px #31748f;
 }
+
+  @font-face {
+    font-family: "JetBrains Mono";
+    url('https://cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@2.002/web/woff/JetBrainsMono-Regular.woff');
+  }
