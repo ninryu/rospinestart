@@ -9,7 +9,7 @@ input {
     height: inherit;
     width: 680px;
     background: #faf4ed;
-    color: #575279;
+    color: #907aa9;
     font: "Cartograph CF";
     font-weight: mono;
     line-height: 1.8em;
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-	color: #9ccfd8;
+	color: #56949f;
 }
 
 .time {
