@@ -1,7 +1,7 @@
 :root {
 	--font: "Cartograph CF";
 	--bgcolor: #faf4ed;
-	--linkcolor: #286983;
+	--linkcolor: #56949f;
 }
 
 /*-----------------------------------------------------------*/
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-	color: #56949f;
+	color: #ea9d34;
 }
 
 .time {
