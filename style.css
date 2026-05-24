@@ -1,7 +1,7 @@
 :root {
-	--font: "Cartograph CF";
+	--font: "JetBrains Mono",monospace;
 	--bgcolor: #faf4ed;
-	--linkcolor: #56949f;
+	--linkcolor: #907aa9;
 }
 
 /*-----------------------------------------------------------*/
@@ -9,11 +9,11 @@ input {
     height: inherit;
     width: 680px;
     background: #faf4ed;
-    color: #907aa9;
-    font: "Cartograph CF";
+    color: #56949f;
+    font-family: "JetBrains Mono",monospace;
     font-weight: mono;
     line-height: 1.8em;
-    box-shadow: 1px 1px 3px #0000000a;
+    box-shadow: 1px 1px 3px #eb6f92;
     border: none;
     text-align: center;
     border-radius: 8px;
@@ -49,7 +49,7 @@ body {
 	padding-left: 3%;
 	background-color: var(--bgcolor);
 	border-radius: 8px;
-	box-shadow: 2px 2px 8px #0000000a;
+	box-shadow: 1px 1px 3px #eb6f92;
 }
 
 .box {
@@ -84,3 +84,4 @@ a:hover {
     color: #e0def4;
 	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #C3A5E6, -20px 20px 0px #31748f;
 }
+
