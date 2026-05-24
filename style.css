@@ -63,10 +63,10 @@ ul {
 
 a {
 	display: block;
-	line-height: 2.4em;
+	line-height: 2.3em;
 	font-family: var(--font);
 	color: var(--linkcolor);
-	font-size: 1rem;
+	font-size: 1.05rem;
 	text-decoration: none;
 	outline: none;
 	transition: .2s;
